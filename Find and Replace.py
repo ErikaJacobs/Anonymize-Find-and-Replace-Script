@@ -3,8 +3,8 @@
 # find and replace. While simple, this code can be very powerful!
 
 # The files that need words replaced
-files = ["C:/Users/cluel/Desktop/ErikaJacobs_PythonToSQL_PG.py", 
-         "C:/Users/cluel/Desktop/ErikaJacobs_PythonToSQL_PG2.py"]
+files = ["C:/folder/folder/folder/filename1.py", 
+         "C:/folder/folder/folder/filename2.py"]
 
 # The words being replaced
 # Example: "Cat" is before, "turtle" is after
