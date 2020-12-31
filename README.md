@@ -9,13 +9,33 @@ This repository contains a simple script that finds and replaces text in multipl
 * Spyder
 
 ## Packages Used
-* No packages used
+* Pandas
+
+## How To Run
+
+##### Set-Up
+The repository features a file called "changes.csv", which features two columns: BEFORE and AFTER. List words needing to be changed in the BEFORE column, and what the word should be changed to in the AFTER column. Please note that words are case sensitive.
+
+File locations should be placed starting on line 14 of find_replace.py. File names should be entered as strings in the Python list on line 14.
+
+##### Install Requirements and Run
+On the command line of your operating system, navigate to the repository directory (ideally using a Python virtual environment).
+
+Run the following code on the command line to install requirements:
+```
+pip install -r requirements.txt 
+```
+
+Run the following code on the command line to run this project:
+```
+Python find_replace.py
+```
 
 # Featured Scripts or Deliverables
-* [Python Script](https://github.com/ErikaJacobs/Anonymize-Find-and-Replace-Script/blob/master/Find%20and%20Replace.pyy)
+* [```find_replace.py```](find_replace.py)
 
 # Other Repository Contents
-* No other repository contents at this time.
+* [```changes.csv```](changes.csv) - Features words needing to be replaced, as well as their replacements
 
 # Sources
 * No sources
