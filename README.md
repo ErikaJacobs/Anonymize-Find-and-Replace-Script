@@ -32,10 +32,10 @@ Python find_replace.py
 ```
 
 # Featured Scripts or Deliverables
-* [Python Script](https://github.com/ErikaJacobs/Anonymize-Find-and-Replace-Script/blob/master/Find%20and%20Replace.pyy)
+* [```find_replace.py```](find_replace.py)
 
 # Other Repository Contents
-* No other repository contents at this time.
+* [```changes.csv```] - Features words needing to be replaced, as well as their replacements
 
 # Sources
 * No sources
