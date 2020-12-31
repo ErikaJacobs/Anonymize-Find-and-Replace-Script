@@ -2,7 +2,6 @@
 # multiple text-based files without having to open them and physically
 # find and replace. While simple, this code can be very powerful!
 
-import csv
 import os
 import pandas as pd
 
