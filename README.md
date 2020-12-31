@@ -35,7 +35,7 @@ Python find_replace.py
 * [```find_replace.py```](find_replace.py)
 
 # Other Repository Contents
-* [```changes.csv```] - Features words needing to be replaced, as well as their replacements
+* [```changes.csv```](changes.csv) - Features words needing to be replaced, as well as their replacements
 
 # Sources
 * No sources
