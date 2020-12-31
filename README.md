@@ -11,7 +11,7 @@ This repository contains a simple script that finds and replaces text in multipl
 ## Packages Used
 * No packages used
 
-# Featured Notebooks, Scripts, Analysis, or Deliverables
+# Featured Scripts or Deliverables
 * [Python Script](https://github.com/ErikaJacobs/Anonymize-Find-and-Replace-Script/blob/master/Find%20and%20Replace.pyy)
 
 # Other Repository Contents
@@ -19,4 +19,3 @@ This repository contains a simple script that finds and replaces text in multipl
 
 # Sources
 * No sources
-
